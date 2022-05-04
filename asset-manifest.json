@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Shikshseducational/static/css/main.9b49f923.css",
+    "main.js": "/Shikshseducational/static/js/main.b10cd68b.js",
+    "static/js/787.2cdc1de1.chunk.js": "/Shikshseducational/static/js/787.2cdc1de1.chunk.js",
+    "static/media/aboutus.jpg": "/Shikshseducational/static/media/aboutus.2f883e7c5e5557e78df8.jpg",
+    "static/media/education-background.jpg": "/Shikshseducational/static/media/education-background.6166415179712980a5a8.jpg",
+    "static/media/about.jpg": "/Shikshseducational/static/media/about.bb0d313eb162e545726e.jpg",
+    "static/media/python.jpg": "/Shikshseducational/static/media/python.eb6541b45ca9ff18476d.jpg",
+    "static/media/ab15.png": "/Shikshseducational/static/media/ab15.297775a2245baf3cde17.png",
+    "static/media/ab4.png": "/Shikshseducational/static/media/ab4.7a4fc07b33868f8c3367.png",
+    "static/media/ab19.png": "/Shikshseducational/static/media/ab19.fea035a84686502d92b5.png",
+    "static/media/ab14.png": "/Shikshseducational/static/media/ab14.c2f9d80d91199c8bc55a.png",
+    "static/media/icon3.png": "/Shikshseducational/static/media/icon3.c709a7546724e3cc4b50.png",
+    "static/media/rev1.png": "/Shikshseducational/static/media/rev1.714981466a5ab49d5207.png",
+    "static/media/ab17.png": "/Shikshseducational/static/media/ab17.97e45db223764e5a0d97.png",
+    "static/media/ab7.png": "/Shikshseducational/static/media/ab7.e2a0874fb1b3a165e31f.png",
+    "static/media/icon4.png": "/Shikshseducational/static/media/icon4.589ae90977bc25a1e1c6.png",
+    "static/media/ab20.png": "/Shikshseducational/static/media/ab20.5ba91639988ae43bdee9.png",
+    "static/media/ab18.png": "/Shikshseducational/static/media/ab18.314b5febd3458d0198c8.png",
+    "static/media/ab1.png": "/Shikshseducational/static/media/ab1.f828be1e21d95d20bad3.png",
+    "static/media/Capture.JPG": "/Shikshseducational/static/media/Capture.ef6f9c76f7f121043e57.JPG",
+    "index.html": "/Shikshseducational/index.html",
+    "main.9b49f923.css.map": "/Shikshseducational/static/css/main.9b49f923.css.map",
+    "main.b10cd68b.js.map": "/Shikshseducational/static/js/main.b10cd68b.js.map",
+    "787.2cdc1de1.chunk.js.map": "/Shikshseducational/static/js/787.2cdc1de1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b49f923.css",
+    "static/js/main.b10cd68b.js"
+  ]
+}
